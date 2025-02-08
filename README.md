@@ -12,3 +12,5 @@
 ## Précisions
 - N'oubliez pas que le TP1 sera réutilisé pour les prochains TPs.
 - N'oubliez pas de mettre les noms des équipiers et leurs username github dans le fichier `CONTRIBUTORS.md`.
+- Une votre équipe créée dans github classroom, votre dévoué enseignant ira ajouter un fichier contenant les credentials pour la base de
+    données qui sera créée pour votre équipe.
